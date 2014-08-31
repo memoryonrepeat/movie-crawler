@@ -1,0 +1,400 @@
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<meta name="generator" content="Adobe GoLive 6">
+		<title>Movie Spoiler for the film - I, FRANKENSTEIN</title>
+		<meta name="description" content="A brief synopsis and the ending will be revealed for the movie - I, FRANKENSTEIN">
+		<meta name="keywords" content="I, FRANKENSTEIN, 2014,  Aaron Eckhart, Bill Nighy, Miranda Otto , spoiler, Film, Endings, dvd, video, Cinema, Theater, Current, Playing, Movie Spoilers">
+	
+	
+<!-- PopAds.net Popunder Code for www.themoviespoiler.com -->
+<script type="text/javascript">
+  var _pop = _pop || [];
+  _pop.push(['siteId', 366898]);
+  _pop.push(['minBid', 0]);
+  _pop.push(['popundersPerIP', 0]);
+  _pop.push(['delayBetween', 0]);
+  _pop.push(['default', false]);
+  _pop.push(['defaultPerDay', 0]);
+  _pop.push(['topmostLayer', false]);
+  (function() {
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    var s = document.getElementsByTagName('script')[0]; 
+    pa.src = '//c1.popads.net/pop.js';
+    pa.onerror = function() {
+      var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+      sa.src = '//c2.popads.net/pop.js';
+      s.parentNode.insertBefore(sa, s);
+    };
+    s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+<!-- PopAds.net Popunder Code End -->
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34133412-1']);
+  _gaq.push(['_setDomainName', 'themoviespoiler.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	
+	</head>
+
+	<body background="../Images/classic.jpg">
+		<div align="center">
+			
+		<!-- Conversant Media 468x60 and 728x90 Banner CODE for The Movie Spoiler -->
+<script type="text/javascript">var vclk_options = {sid:15941,media_id:1,media_type:5,version:"1.4"};</script><script class="vclk_pub_code" type="text/javascript" src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js?sid=15941&media_id=1&media_type=5&version=1.4&exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=15941&m=1&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=15941&m=1&tp=5&d=s&c=1&vcm_acv=1.4" width="728" height="90" border="1"></a></noscript>
+<!-- Conversant Media 468x60 and 728x90 Banner CODE for The Movie Spoiler -->
+
+
+
+			<table cool width="1017" height="3367" border="0" cellpadding="0" cellspacing="0" gridx="5" showgridx gridy="5" showgridy>
+				<tr height="32">
+					<td width="154" height="32"></td>
+					<td width="862" height="32" colspan="4" valign="top" align="left" xpos="154">
+						<table width="728" border="0" cellspacing="0" cellpadding="0" height="15">
+							<tr>
+								<td width="728">
+									<div align="center">
+										<script type="text/javascript"><!--
+google_ad_client = "pub-0585118307584628";
+google_ad_width = 728;
+google_ad_height = 15;
+
+google_ad_format = "728x15_0ads_al";
+google_ad_channel ="";
+google_color_border = "CCCCCC";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "666666";
+google_color_text = "333333";
+//--></script>
+										<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+					<td width="1" height="32"><spacer type="block" width="1" height="32"></td>
+				</tr>
+				<tr height="10">
+					<td width="186" height="3334" colspan="2" rowspan="4" valign="top" align="left" xpos="0">
+						<table width="140" border="0" cellspacing="2" cellpadding="2" bgcolor="#00003e">
+							<div align="center">
+								<tr height="600">
+									<td valign="top" bgcolor="#00003e" width="161" height="600">
+										<div align="center">
+											<!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for The Movie Spoiler -->
+											<script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script>
+											<script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript">(function () {try{VCM.media.render({sid:15941,media_id:3,media_type:7,version:"1.2"});} catch(e){document.write(\'<scr\' + \'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=15941&m=3&tp=7&d=j&t=n&exc=1"></scr\' + \'ipt>\');}}());</scr' + 'ipt>');</script>
+											<noscript>
+												<a href="http://media.fastclick.net/w/click.here?sid=15941&m=3&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=15941&m=3&tp=7&d=s&c=1&vcm_acv=1.2" width=160 height=600 border=1></a>
+											</noscript>
+											<!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for The Movie Spoiler --></div>
+									</td>
+								</tr>
+								<tr height="600">
+									<td valign="top" bgcolor="#00003e" width="161" height="600">
+										<div align="center">
+											<script type="text/javascript"><!--
+google_ad_client = "pub-0585118307584628";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+google_ad_channel ="9201647658";
+google_color_border = "FFFFFF";
+google_color_link = "0033FF";
+google_color_bg = "FFFFFF";
+google_color_text = "000000";
+google_color_url = "0033FF";
+//--></script>
+											<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+										</div>
+									</td>
+								</tr>
+								<tr height="600">
+									<td valign="top" bgcolor="#00003e" width="161" height="600"><!-- START YieldSelect.com Private Marketplace Tag For TheMovieSpoiler.com -->
+<!-- Size: 160x600 -->
+<script src="http://ads-by.yieldselect.com/tags/6303/166/async/160x600.js" type="text/javascript"></script>
+<!-- END YieldSelect.com Private Marketplace Tag For TheMovieSpoiler.com --></td>
+								</tr>
+							</div>
+						</table>
+					</td>
+					<td width="669" height="166" colspan="2" rowspan="2" valign="top" align="left" xpos="186">
+						<table border="4" cellpadding="0" cellspacing="2" width="655" height="136" bgcolor="white">
+							<tr>
+								<td align="center" valign="middle" width="88">
+									<div align="center">
+										<img src="../pstrs/ifrankenstein.jpg" alt="" height="150" width="101" border="0"></div>
+								</td>
+								<td align="center" valign="middle" width="547">
+									<div align="center">
+										<a href="http://www.themoviespoiler.com"><img height="119" width="537" src="../Images/spoiler.jpg" align="middle" border="0"></a></div>
+								</td>
+							</tr>
+						</table>
+					</td>
+					<td width="161" height="10"></td>
+					<td width="1" height="10"><spacer type="block" width="1" height="10"></td>
+				</tr>
+				<tr height="156">
+					<td width="161" height="3324" rowspan="3" valign="top" align="left" xpos="855">
+						<table width="161" border="0" cellspacing="2" cellpadding="2" bgcolor="#00003e">
+							<div align="center">
+								<tr height="600">
+									<td valign="top" bgcolor="#00003e" width="151" height="600">
+										<div align="center">
+											<table width="140" border="0" cellspacing="2" cellpadding="2" bgcolor="#00003e">
+												<tr height="600">
+													<td bgcolor="#00003e" width="125" height="600"><!-- Casale Media: 120x600 (Tower) -->
+														<script type="text/javascript">
+
+var CasaleArgs = new Object();
+
+CasaleArgs.version = 2;
+
+CasaleArgs.adUnits = "3";
+
+CasaleArgs.casaleID = 54362;
+
+</script>
+														<script type="text/javascript" src="http://js.casalemedia.com/casaleJTag.js"></script>
+														<!-- DO NOT MODIFY --></td>
+												</tr>
+											</table>
+										</div>
+									</td>
+								</tr>
+								<tr height="600">
+									<td valign="top" bgcolor="#00003e" width="151" height="600">
+										<div align="center">
+											<table width="140" border="0" cellspacing="2" cellpadding="2" bgcolor="#00003e">
+												<tr height="600">
+													<td bgcolor="#00003e" width="125" height="600">
+														<div align="center">
+															<!-- BEGIN RICH-MEDIA Burst Media CODE -->
+															<script type="text/javascript" language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+ts=String.fromCharCode(60);
+if (window.self != window.top) {nf=''} else {nf='NF/'};
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad12539a.cgi/v=2.3S/sz=160x600A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script>
+															<noscript>
+																<a href="http://www.burstnet.com/ads/ad12539a-map.cgi/ns/v=2.3S/sz=160x600A/" target="_top"><img src="http://www.burstnet.com/cgi-bin/ads/ad12539a.cgi/ns/v=2.3S/sz=160x600A/" border="0" alt="Click Here" /></a>
+															</noscript>
+															<!-- END Burst Media CODE --></div>
+													</td>
+												</tr>
+											</table>
+										</div>
+									</td>
+								</tr>
+							</div>
+						</table>
+					</td>
+					<td width="1" height="156"><spacer type="block" width="1" height="156"></td>
+				</tr>
+				<tr height="55">
+					<td width="4" height="3168" rowspan="2"></td>
+					<td width="665" height="55" valign="top" align="left" xpos="190">
+						<table border="1" cellpadding="4" cellspacing="1" width="662" height="50">
+							<tr bgcolor="white">
+								<td width="33%">
+									<div align="center">
+										<a href="https://www.facebook.com/pages/The-Movie-Spoiler/158384470875779"><img src="../Images/Facebook.png" alt="" width="120" border="1"></a></div>
+								</td>
+								<td width="34%" bgcolor="white">
+									<div align="center">
+										<font size="2"><a href="http://www.thebookspoiler.com"><font face="Early Learner">THE BOOK SPOILER.com</font></a></font><font size="2" face="Early Learner"> </font></div>
+								</td>
+								<td width="33%" bgcolor="white">
+									<div align="center">
+										<a href="../Pages/Spoilers.html"><font size="2" face="Early Learner">SPOILER</font></a><font size="2" face="Early Learner"> </font><a href="../Pages/Spoilers.html"><font size="2" face="Early Learner">ARCHIVE</font></a></div>
+								</td>
+							</tr>
+						</table>
+					</td>
+					<td width="1" height="55"><spacer type="block" width="1" height="55"></td>
+				</tr>
+				<tr height="3113">
+					<td width="665" height="3113" valign="top" align="left" xpos="190">
+						<table width="659" border="1" cellpadding="10" cellspacing="2" align="right">
+							<tr>
+								<td bgcolor="#eeeeee" width="629">
+									<div align="left">
+										<div align="left">
+											<b><font size="7" face="Trebuchet MS, Geneva, Arial, Helvetica, SunSans-Regular, sans-serif">I, FRANKENSTEIN</font></b>
+											<p><b><font size="1"><!-- AddThis Button BEGIN -->
+														<script type="text/javascript">var addthis_pub="dnksr";</script>
+														<a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a>
+														<script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
+														<!-- AddThis Button END --></font></b></p>
+											<b>NOTE: This spoiler was submitted by </b><font color="red"><b>Jeremy</b></font>
+											<table width="300" border="1" cellspacing="2" cellpadding="0" align="right" height="250">
+												<tr height="250">
+													<td width="300" height="250">
+														<div style="float:right;">
+															<!-- Casale Media: 300x250 (Rectangle) -->
+															<script type="text/javascript">
+
+var CasaleArgs = new Object();
+
+CasaleArgs.version = 2;
+
+CasaleArgs.adUnits = "4";
+
+CasaleArgs.casaleID = 54362;
+
+</script>
+															<script type="text/javascript" src="http://js.casalemedia.com/casaleJTag.js"></script>
+															<!-- DO NOT MODIFY --></div>
+														</a></td>
+												</tr>
+											</table>
+											<p>In the year 1795, Victor Frankenstein (Aden Young) brought to life a man-like creature. Terrified by his creation, Frankenstein disposed of him by throwing him over a bridge. In retaliation, the creature (Aaron Eckhart) returns to Frankenstein's home and murders his wife Elizabeth and then flees. Frankenstein goes searching for him, only to freeze to death in the harsh, cold winter air. The creature finds and carries his creator's body to his family's cemetery and buries him there.</p>
+											<p>After the burial, the creature is confronted by two demons. They attack the creature and plan to bring him back to their master Naberius. From a distance, two gargoyles perched on a castle awaken and fly over to fight the demons. They take on human forms as Ophir (Mahesh Jadu) and Keziah (Caitlin Stasey), using their weapons to kill them and send their souls back to Hell. The two of them go to the creature, who lies unconscious. Ophir is impressed with the creature's strength and then finds Frankenstein's journal, realizing that this is the very same creature rumored to have been brought to life.</p>
+											<p>Ophir and Keziah bring the creature to the castle before their queen Leonore (Miranda Otto) and the gargoyle leader Gideon (Jai Courtney). Gideon thinks they ought to destroy the creature, but Leonore decides against it. She even gives him a name: Adam. Leonore tells Adam that the Gargoyle Order was formed by the archangel Michael in the ongoing battle against the demons. She believes that he can assist in the war, but Adam declines and chooses to be on his own. Before he leaves, Ophir and Keziah take him to the room where they keep their weapons. Only a weapon marked with the symbol of the Gargoyle Order can be used to descend a demon (send it's soul back to Hell for eternity). They explain that if a gargoyle dies, their soul ascends to Heaven. Adam takes two heavy weapons and goes on his way.</p>
+											<table width="300" border="0" cellspacing="2" cellpadding="5" align="right" height="250">
+												<tr>
+													<td><!-- BEGIN RICH-MEDIA Burst CODE -->
+														<script language="JavaScript">
+rnum=Math.round(Math.random() * 100000); ts=String.fromCharCode(60);
+if (window.self != window.top) { nf='' } else { nf='NF/' };
+document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad12539a.cgi/v=2.1S/sz=300x250A/NZ/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
+</script>
+														<noscript>
+															<a href="http://www.burstnet.com/ads/ad12539a-map.cgi/ns/v=2.1S/sz=300x250A/" target="_top"><img src="http://www.burstnet.com/cgi-bin/ads/ad12539a.cgi/ns/v=2.1S/sz=300x250A/" border="0" alt="Click Here"></a>
+														</noscript>
+														<!-- END BURST CODE --></td>
+												</tr>
+											</table>
+											<p>Over the next 200 years, demons continue hunting Adam, but he easily kills all of them. In the present day, Adam walks through a nightclub in the hope of luring a demon. The people in attendance look upon his scarred face with disgust. Two demons follow Adam outside and attack. Adam has one, Helek (Steve Mouzakis) in his hold until a cop comes by and orders him to drop his weapon. Helek goes loose and kills the cop. Adam kills the other demon while Helek flees. Adam runs to a rooftop to catch him but he is carried off by Ophir in gargoyle form.</p>
+											<p>We meet Charles Wessex (Bill Nighy) at his institute to watch an experiment taking place. His two scientists Terra Wade (Yvonne Strahovski) and Carl Avery (Nicholas Bell) perform the experiment on a dead rodent in the hope to bring it back to life. They send electric waves to the rodent's system. At first, the experiment appears to not have worked, but the rodent's heart starts to beat. Wessex is called away by one of his assistants, Dekar (Kevin Grievoux). He takes Wessex to Helek. He tells Wessex that the creature is still out there, thinking that Wessex wanted to hear this. Wessex hits him for disappointing him. Helek responds, &quot;Forgive me...Prince Naberius.&quot;</p>
+											<p>Adam is brought to the cathedral where the gargoyles gather. They chain him up and chastise him for trying to kill demons in an open area, which led to the death of the cop. Adam still feels as though he can never identify as either a man, a demon, or a gargoyle. Leonore says that when she first looked into his eyes, she knew he had no soul, but he was searching for one. Now all she sees is darkness.</p>
+											<table width="300" border="0" cellspacing="2" cellpadding="5" align="right" height="250">
+												<tr>
+													<td><!-- ValueClick Media 300x250 Medium Rectangle CODE for The Movie Spoiler -->
+														<script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script>
+														<script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript">(function () {try{VCM.media.render({sid:15941,media_id:6,media_type:8,version:"1.2"});} catch(e){document.write(\'<scr\' + \'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=15941&m=6&tp=8&d=j&t=n&exc=1"></scr\' + \'ipt>\');}}());</scr' + 'ipt>');</script>
+														<noscript>
+															<a href="http://media.fastclick.net/w/click.here?sid=15941&m=6&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=15941&m=6&tp=8&d=s&c=1&vcm_acv=1.2" width=300 height=250 border=1></a>
+														</noscript>
+														<!-- ValueClick Media 300x250 Medium Rectangle CODE for The Movie Spoiler --></td>
+												</tr>
+											</table>
+											<p>Wessex orders his most trusted demon Zuriel (Socratis Otto) to go forth and lead the demons to capture Adam. The gargoyles spot a group of demons charging toward the cathedral. They swoop down and easily descend them. However, an ever greater number of demons come jumping down from rooftops, outnumbering the gargoyles. Adam begs Ophir to let him fight to defend himself, and Ophir breaks his chains. He and Keziah are killed in the fight, and their souls ascend. Two gargoyles capture a female demon and bring her to Gideon with a message while Adam takes another demon. He threatens to dunk him in holy water until he confesses that the demons have taken Leonore to the Walton Theatre. Adam shoves the demon in holy water anyway, burning him and causing him to descend. Gideon is aware of this as well, and he opens a box containing Frankenstein's journal.</p>
+											<p>Wessex, asks Terra what she knows of Frankenstein. She believes it to just be a myth used to scare children. Wessex knows that the legend is true and that Frankenstein's creation holds the key to life.</p>
+											<p>Adam runs to the Walton Theatre, sneaking in as Gideon crashes in. He finds Zuriel holding Leonore by the neck. Gideon offers him the journal in exchange for Leonore, but she prefers that he take it back and let her ascend. Zuriel takes the journal and lets Leonore go. Gideon catches her. After they leave, Adam fights off and descends more demons. He runs after Zuriel.</p>
+										<!-- START YieldSelect.com Private Marketplace Tag For TheMovieSpoiler.com -->
+<!-- Size: 300x250 -->
+<script src="http://ads-by.yieldselect.com/tags/6303/166/async/300x250.js" type="text/javascript"></script>
+<!-- END YieldSelect.com Private Marketplace Tag For TheMovieSpoiler.com -->
+											<p>Zuriel brings the journal back to the Wessex Institute for Terra and Carl to inspect and use in the experiment. Adam also enters the facility, coming across a large chamber beneath the institute that holds thousands of dead bodies encased in pods. He goes to the laboratory and sees Terra looking through the journal, containing Frankenstein's drawings and details of how his creature came to be. He breaks through a window, frightening her. Wessex's men enter to try and take him out, but Wessex himself holds them off, knowing just who this creature is. He requests Adam to join him, but he refuses. Wessex's eyes glow red. Adam breaks out the window and crashes through a tunnel, landing on a train. He gets inside and takes out the journal that he took. He starts to look through it.</p>
+											<p>Terra realizes that Adam holds more to the experiment than Wessex is telling her. She leaves the institute, while Zuriel tells Wessex that she can be a useful asset in getting the creature to participate in the experiment. Adam finds Terra as she walks near an alley and takes her, but promises not to hurt her. He informs her of the existence of gargoyles and demons, which she doesn't believe until Zuriel appears in his demon form. Adam fights him but gets taken down. Zuriel boasts that he doesn't need to bring him back alive with the journal. Terra asks him to not kill him so that she may study his organs while alive. This provides a distraction while Adam takes his knife (with the Gargoyle Order symbol carved into it) and stick it into Zuriel, killing him and sending his soul back to Hell.</p>
+											<p>Adam and Terra go somewhere for her to tend to his wound. He explains to her the history of the gargoyle and demon war while giving her his backstory, assuring her that he only ever killed his creator's wife and demons. Terra calls Carl to aid them, which Adam says she shouldn't have done. We see Carl getting cornered by Dekar and other demons.</p>
+											<table width="300" border="1" cellspacing="2" cellpadding="0" align="right" height="250">
+												<tr>
+													<td>
+														<div align="center">
+															<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0585118307584628";
+/* Spoiler new Rectangle */
+google_ad_slot = "9761433683";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+															<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+														</div>
+													</td>
+												</tr>
+											</table>
+											<p>Adam returns to the cathedral, telling Leonore and the other gargoyles about the thousands of dead bodies he saw, and that he must protect Terra now that she is assisting him. He informs them that Naberius wants to use him or the journal to bring back fallen demons and restore their souls into dead bodies. When he leaves, Leonore tells Gideon to retrieve the journal and destroy Adam. In his gargoyle form, he finds Adam and attacks him, nearly pushing him out a window to his death, but Adam pulls himself up. Gideon flies into the building and grabs Adam, swooping down in an attempt to kill Adam with his axe, but Adam pushes it into Gideon's chest, revealing a glowing light that means he's ready to ascend. Gideon tells Adam that God will damn him, though Adam says God already did. The gargoyle's soul ascends to Heaven. His comrades see the light and retrieve an article of clothing left behind from him, returning it to Leonore. Adam is then seen looking through the journal one last time before burning it in a barrel behind an alley.</p>
+											<p>Terra goes back to the institute and is captured by Dekar and the other demons. Wessex uses his demon hand to crush Carl's throat. Meanwhile, Leonore assumes her gargoyle form and leads the gargoyles to find Adam. They see him running, and one gargoyle flies down to attack, but he swiftly punches the gargoyle down onto a car. He runs all the way to the institute. Leonore realizes that Adam led them to the demons. Dekar, as a demon, gathers the other demons out to kill Adam, but the gargoyles grab him and descend him, then engage in a huge battle with the other demons, giving Adam an opportunity to run inside.</p>
+											<p>Terra is forced to send 15,000 volts to the machine that is connected to the pods below the institute to bring life to the corpses. Adam finds her and Wessex, who takes on his true demonic form as Naberius. Adam fights him and tries to cut into his body with his knife, leaving him with three horizontal cuts on his chest. At the same time, the gargoyles locate the chamber and attempt to destroy the pods before the demons can overtake the bodies. Naberius throws Terra at the machine, but Adam jumps in the way to save her, getting a blast of electricity to his body. Naberius tries to paint a bloody star on Adam's forehead and prepare him for a demon to use his body as a vessel. Down below, the demons start to inhabit the bodies while the gargoyles continue to get rid of them. The demons are unable to take hold of Adam's body, and he carves a vertical cut into Naberius's chest, creating a Gargoyle Order symbol. Naberius descends to Hell in such a powerful way that it brings down the entire institution, including the chamber, taking it all the way down to Hell. The gargoyles get out of there, and Leonore rescues Adam and Terra.</p>
+											<p>Adam acknowledges that Leonore sent Gideon after him, but she admits that she chose to save him after realizing that he found his purpose. She is thankful to Adam for his help. He takes to a rooftop and narrates that he will continue to fight for mankind, accepting his position as a descender of demons and his name as Frankenstein.</p>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+					<td width="1" height="3113"><spacer type="block" width="1" height="3113"></td>
+				</tr>
+				<tr height="1" cntrlrow>
+					<td width="154" height="1"><spacer type="block" width="154" height="1"></td>
+					<td width="32" height="1"><spacer type="block" width="32" height="1"></td>
+					<td width="4" height="1"><spacer type="block" width="4" height="1"></td>
+					<td width="665" height="1"><spacer type="block" width="665" height="1"></td>
+					<td width="161" height="1"><spacer type="block" width="161" height="1"></td>
+					<td width="1" height="1"></td>
+				</tr>
+			</table>
+		</div>
+		<div align="left">
+										<div align="left">
+											<div align="left">
+												<div align="center">
+													<hr width="75%">
+													<div align="center">
+														<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><i><b>You can send in your spoiler to other movies by going <a href="../Pages/submit.html">here</a>.<br>
+																	</b></i></font></p>
+														<p><font size="2" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><i><b>Send your questions or comments about this or any other spoiler to: <a href="mailto:TheMovieSpoiler@mac.com">THEMOVIESPOILER.com</a></b></i></font></p>
+														<hr width="75%">
+							<i><font size="1" face="Trebuchet MS, Geneva, Arial, Helvetica, SunSans-Regular, sans-serif">All submitted spoilers are copyright &copy; TheMovieSpoiler.com<br>
+										All Rights Reserved.<br>
+									No duplication or reproduction of any kind without permission from&nbsp;<a href="mailto:TheMovieSpoiler@mac.com">TheMovieSpoiler.</a> </font></i></div>
+												</div>
+											</div>
+										</div>
+									</div>
+		<div align="left">
+										<p><font color="black" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular"><i></i></font></p>
+									</div>
+	
+	<script type="text/JavaScript">var TFN='';var TFA='';var TFI='0';var TFL='0';var tf_RetServer="rt.trafficfacts.com";var tf_SiteId="15677g3294bba67296bdaaf155732fc935f5888ebf0d9eh7";var tf_ScrServer=document.location.protocol+"//rt.trafficfacts.com/tf.php?k=15677g3294bba67296bdaaf155732fc935f5888ebf0d9eh7;c=s;v=5";document.write(unescape('%3Cscript type="text/JavaScript" src="'+tf_ScrServer+'">%3C/script>'));</script><noscript><img src="http://rt.trafficfacts.com/ns.php?k=15677g3294bba67296bdaaf155732fc935f5888ebf0d9eh7" height="1" width="1" alt=""/></noscript>
+	</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
